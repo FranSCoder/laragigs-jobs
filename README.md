@@ -1,6 +1,6 @@
 # LaraGigs app
 
-An app for listing Laravel gigs/jobs. This project is from my YouTube "[Laravel From Scratch 2022](https://www.youtube.com/watch?v=MYyJ4PuL4pY)" course.
+An app for listing Laravel gigs/jobs. This is a practice project, I completed it following the "[Laravel From Scratch 2022](https://www.youtube.com/watch?v=MYyJ4PuL4pY)" course. All credits of idea and development to Traversy Media Youtube Channel.
 
 ![Alt text](/public/images/screen.png "LaraGigs")
 
